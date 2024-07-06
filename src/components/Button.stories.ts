@@ -71,3 +71,10 @@ export const small: Story = {
     children: "Button",
   },
 };
+
+export const noSmall: Story = {
+  args: {
+    size: "small",
+    children: "Button",
+  },
+};
