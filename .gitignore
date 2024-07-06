@@ -1,0 +1,5 @@
+node_modules
+/lib
+*storybook.log
+# ignore storybook-static
+storybook-static
